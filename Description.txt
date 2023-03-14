@@ -1,0 +1,82 @@
+Tic Tac Toe Game - Basic Game with oops
+
+We have 2 players - Player1 and Player2
+the game starts with Player1
+
+Player1 have to enter row and column index where Player1 wishes to MARK
+Next Chance passes to Player2 
+He needs to enter Row and Column index where he Wishes to MARK
+
+Game Continues until any player Wins the Game (diagonally, vertically or Horizontally)
+(or) Game Gets Draw(Entire Board Fills)
+
+Input:
+Initial Board :
+- - - 
+- - - 
+- - - 
+
+
+Player 1
+Enter row and col index
+Enter row - 0-1-2
+0 
+Enter col - 0-1-2
+0
+1 - - 
+- - - 
+- - - 
+
+
+
+Player 2
+Enter row and col index
+Enter row - 0-1-2
+1
+Enter col - 0-1-2
+1
+1 - - 
+- 2 - 
+- - - 
+
+
+
+Player 1
+Enter row and col index
+Enter row - 0-1-2
+0
+Enter col - 0-1-2
+1
+1 1 - 
+- 2 - 
+- - - 
+
+
+
+Player 2
+Enter row and col index
+Enter row - 0-1-2
+2
+Enter col - 0-1-2
+2
+1 1 - 
+- 2 - 
+- - 2 
+
+
+
+Player 1
+Enter row and col index
+Enter row - 0-1-2
+0
+Enter col - 0-1-2
+2
+
+
+OutPut:
+
+*******Player 1 Won the game*******
+1 1 1 
+- 2 - 
+- - 2 
+
